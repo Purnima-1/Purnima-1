@@ -1,6 +1,6 @@
 ### Hi 👋 I am Purnima...
 
-- 🔭 I’m currently working on a Volleyball Scoreboard application.
+- 🔭 I’m currently solving Frontend mentor challenges and working on a Volleyball Scoreboard application.
 - 🌱 I’m currently learning GUI, Data Structure, Algorithms and System Design.
 - 🌱 I'm graduated from Speak_ program where I have learnt Pair programming and System Design Pattern.
 - 👯 I’m looking to collaborate on Open Source Project. I have already started contributing on FistContributuons: https://github.com/Purnima-1/first-contributions
